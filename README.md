@@ -1,1 +1,1 @@
-This repo contains a collection of my bas scripts
+This repo contains a collection of my bash scripts
